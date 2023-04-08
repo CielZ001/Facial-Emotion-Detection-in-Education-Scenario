@@ -1,5 +1,7 @@
 # Facial-Emotion-Detection-in-Education-Scenario
 
+This project is writtern in Python.
+
 The dataset we used was a emotion detection dataset on Kaggle (https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer).
 
 Codes and descriptions could be found in the ipynb file.
